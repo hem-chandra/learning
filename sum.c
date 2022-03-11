@@ -6,4 +6,5 @@ int main()
     scanf("%d %d",&first,&second);
     sum=first+second;
     printf("Sum is %d",sum);
+    printf("New changes at newbranch");
 }
